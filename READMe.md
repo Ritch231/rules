@@ -3,7 +3,7 @@
 
 - 加入索引区
 --加入单个文件或多个文件
-
+gi
 ```bash
 git add [file1 file2]
 ```
