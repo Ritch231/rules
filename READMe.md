@@ -10,13 +10,13 @@ git add [file1 file2]
 
 
 
---加入所有文件到索引区
+- 加入所有文件到索引区
 git add .
---删除文件
+- 删除文件
 git rm
 例如从索引区删除
 git rm --cached test.lua
---文件改名
+- 文件改名
 git mv a.lua  b.lua
 
 git commit -m "说明"
