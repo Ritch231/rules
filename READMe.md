@@ -1,4 +1,5 @@
-#### git
+### 2023年1月22日 首次使用git并提交clash规则
+##### git
 
 - 加入索引区
 --加入单个文件或多个文件
@@ -26,7 +27,7 @@ git log --oneline -2
 --比较修改内容
 git diff
 git diff --cached
-
+tie
 git checkout
 --退出索引区
 git reset HEAD test.lua
