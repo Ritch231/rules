@@ -65,6 +65,6 @@ git merge  dev
 - 删除分支
 git branch -d[name]
 
-![Git Command List](https://github.com/Ritch231/rules/master/git_command_list.png "Git Command List")
+![Git Command List](https://github.com/Ritch231/rules/blob/master/Branch.png "Git Command List")
 
-![Git Command List](https://github.com/Ritch231/rules/master/git_command_list.png "Git Command List")
+![Git Command List](https://github.com/Ritch231/rules/blob/master/git_command_list.png "Git Command List")
