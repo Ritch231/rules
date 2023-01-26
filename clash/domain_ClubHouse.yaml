@@ -6,3 +6,7 @@ payload:
   - '+.clubhouseapi.com'
   - '+.joinclubhouse.com'
   - '+.clubhouse.pubnubapi.com'
+  - 'ap-oversea-tls.agora.io'
+  - 'ap-oversea.agora.io'
+  - 'ap-oversea2.agora.io'
+  - 'report-oversea.agora.io'
